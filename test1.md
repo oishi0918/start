@@ -1,4 +1,2 @@
 # therd
 * first *
-* second
-## gitがぴょんぴょんするんじゃぁ～
